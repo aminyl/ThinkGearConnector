@@ -1,0 +1,14 @@
+obj
+Library
+Temp
+Assets/NeuroSkyAssets
+*.booproj
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+sysinfo.txt
